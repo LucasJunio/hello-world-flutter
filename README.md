@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Goal
+
+![nubank](https://github.com/user-attachments/assets/e9089979-72b7-41a2-984b-df87b100d83c)
