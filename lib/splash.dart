@@ -17,7 +17,7 @@ class _SplashPageState extends State<SplashPage> {
           children: [
             Padding(
               padding: EdgeInsets.only(bottom: 45),
-              child: Text('Hello World!'),
+              child: Text('Lucas Junio G. Azevedo!'),
             ), 
             CircularProgressIndicator(),
           ],
